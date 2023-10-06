@@ -1,8 +1,8 @@
 spring:
     datasource:
-        url: jdbc:sqlserver://localhost;database=DataUserBasic
-        username: bee
-        password: bee
+        url: jdbc:sqlserver://eu-az-sql-serv1.database.windows.net;database=dznincwtocgo7n5
+        username: uczb4njyqmte2dd
+        password: Imtra38MunquDyq*yAcaMrdp@
         driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
     jpa:
         hibernate:
